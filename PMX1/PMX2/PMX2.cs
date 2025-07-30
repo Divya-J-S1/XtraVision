@@ -1,8 +1,8 @@
 ﻿using System;
 
-public class Test
+public class PMX2
 {
-	public Test()
+	public PMX2()
 	{
 	}
 }
