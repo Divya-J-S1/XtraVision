@@ -7,9 +7,3 @@ public class PMX1
 		string s="PMX1";		
 	}
 }
-
-
-
-
-
-
