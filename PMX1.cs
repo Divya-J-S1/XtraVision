@@ -4,7 +4,8 @@ public class PMX1
 {
 	public PMX1()
 	{
-		string s="PMX111111111111";		
+		string s="PMX1";		
 	}
 }
+
 
